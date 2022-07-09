@@ -1,1 +1,1 @@
-# Raw data for JAMES
+# Raw data for International Journal of Forecasting
